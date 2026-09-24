@@ -39,8 +39,8 @@ Arquivo `requirements.txt`:
 ```txt
 Flask==3.1.2
 
-Dockerfile
-Dockerfile
+## Dockerfile
+
 FROM python:3.14-slim
  
 WORKDIR /app
