@@ -1,6 +1,5 @@
 # TrabalhoRASI_Docker_Flask1
-README.md
-Markdown
+
 # Docker com Aplicação Python/Flask
  
 Projeto desenvolvido para a disciplina de Redes e Administração de Sistemas (RASI) do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) - Campus Campos do Jordão.
