@@ -41,6 +41,8 @@ Flask==3.1.2
 
 ## Dockerfile
 
+Arquivo `Dockerfile`:
+
 FROM python:3.14-slim
  
 WORKDIR /app
