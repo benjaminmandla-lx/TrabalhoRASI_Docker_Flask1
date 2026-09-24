@@ -85,13 +85,11 @@ Acesso
 
 Após iniciar o contêiner, acessar:
 
-Plain Text
 http://IP_DA_VM:5000
 Mostrar mais linhas
 
 Rotas adicionais:
 
-Plain Text
 http://IP_DA_VM:5000/segredo
  
 http://IP_DA_VM:5000/membros
